@@ -1,4 +1,4 @@
->如果觉得看起来比较麻烦，需要PDF版本，或是需要更多学习资料、面试资料，进阶、架构资料，都可以加上[QQ群](https://github.com/CurvedBowZhang/Android-Notes#qq%E7%BE%A4)领取。祝愿每一位有追求的Android开发同胞都能进大厂拿高薪！
+>如果觉得看起来比较麻烦，需要PDF版本，或是需要更多学习资料、面试资料，进阶、架构资料，都可以加上[QQ群](https://github.com/274942954/AndroidCollection#qq%E7%BE%A4)领取。祝愿每一位有追求的Android开发同胞都能进大厂拿高薪！
 
 # AndroidCollection
 
@@ -344,7 +344,7 @@ Android知识笔记目录：
      * [LRU缓存策略](https://github.com/274942954/AndroidCollection/blob/master/Docs/常见面试算法题汇总.md#lru缓存策略)
 
 # Contanct Me
-如果觉得看起来比较麻烦，需要PDF版本，或是需要更多学习资料，都可以加上微信或QQ群领取。祝愿每一位有追求的Android开发同胞都能进大厂拿高薪！
+如果觉得看起来比较麻烦，需要PDF版本，或是需要更多学习资料，都可以加上QQ群领取。祝愿每一位有追求的Android开发同胞都能进大厂拿高薪！
 
 ## QQ群
 
