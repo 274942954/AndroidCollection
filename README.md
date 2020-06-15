@@ -1,4 +1,4 @@
->如果觉得看起来比较麻烦，需要PDF版本，或是需要更多学习资料、面试资料，进阶、架构资料，都可以加上[QQ群](https://github.com/274942954/AndroidCollection#qq%E7%BE%A4)领取。祝愿每一位有追求的Android开发同胞都能进大厂拿高薪！
+>如果觉得看起来比较麻烦，需要PDF版本，或是需要更多学习资料、面试资料，进阶、架构资料，都可以加上[Android高级架构师交流2群](点击链接加入群聊【】：https://jq.qq.com/?_wv=1027&k=ZyMBdnsH)领取。祝愿每一位有追求的Android开发同胞都能进大厂拿高薪！
 
 # AndroidCollection
 
@@ -348,5 +348,5 @@ Android知识笔记目录：
 
 ## QQ群
 
-Android开发交流QQ群：**894230989**  （备注一下GitHub，免得被我认成打无良广告的）
+Android开发交流QQ群：**1087455512**  （备注一下GitHub，免得被我认成打无良广告的）
 
